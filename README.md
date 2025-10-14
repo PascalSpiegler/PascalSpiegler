@@ -21,4 +21,4 @@ My work so far blends **AI foundation models**, **LLMs**, and **VR/AR interfaces
 ---
 
 ## ⚙️ Tech
-`Python` · `PyTorch` · `C++` · `C#` · `Unity` · `React` · `RAG` · `OpenAI API` · `Docker` · `Linux` · `React`
+`Python` · `PyTorch` · `C#` · `C++` · `Java` · `JavaScript/TypeScript` · `Unity` · `React` · `RAG`  · `Docker` · `Linux` · `React`
